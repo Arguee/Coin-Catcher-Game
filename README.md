@@ -14,6 +14,8 @@ This is a game I made in pygame when I was eager to learn game development. As I
 - [@Argue](https://www.github.com/Arguee)
 
 
+## Challenge
+Can you beat my highscore of 51?
 ## Support
 
 For support, contact me on !Argue#6693 via Discord.
