@@ -1,7 +1,7 @@
 
 # Coin Catcher Game
 
-This is a game I made in pygame when I was eager to learn game development. As I was familiar with python and found a library which provides all features to make a game. This is my first game I ever made.
+This is a game I made in pygame when I was eager to learn game development. As I was familiar with python and found a library which provides all features to make a game. This is the first game I ever made.
 
 
 ## Screenshots
@@ -18,5 +18,5 @@ This is a game I made in pygame when I was eager to learn game development. As I
 Can you beat my highscore of 51?
 ## Support
 
-For support, contact me on !Argue#6693 via Discord.
+For support, contact me on `arguexd` via Discord.
 
